@@ -1,1 +1,1 @@
-# dede-admin-theme
+# dedecms5.7-admin-theme

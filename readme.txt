@@ -7,3 +7,4 @@
 
 注意:覆盖前,备份好三个html文件,不想使用的收,轻松还原回原来的模板.此模板不需要修改任何php文件.支持后台页面iframe多页面同时打开.
 作者QQ:9154446 个人制作,只做分享,不喜勿喷.
+github地址:https://github.com/love9154446/dede-admin-theme
